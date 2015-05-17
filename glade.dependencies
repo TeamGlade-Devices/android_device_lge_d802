@@ -1,7 +1,7 @@
 [
-  {
-    "remote": "gd",
-    "repository": "android_device_lge_g2-common",
+  { 
+    "remote": "github",
+    "repository": "TeamGlade-Devices/android_device_lge_g2-commonn",
     "target_path": "device/lge/g2-common",
     "revision": "lp5.1"
   },

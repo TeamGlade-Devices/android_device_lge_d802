@@ -5,6 +5,7 @@
     "target_path": "device/lge/g2-common",
     "revision": "cm-12.1-caf"
   },
+  {
     "remote": "github",
     "repository": "LlamaOpenSourceProject/msm8974_caf_G2_render_kernel",
     "target_path": "kernel/lge/msm8974-caf",

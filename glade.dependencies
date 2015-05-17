@@ -1,6 +1,6 @@
 [
   {
-    "remote": "losp",
+    "remote": "gd",
     "repository": "android_device_lge_g2-common",
     "target_path": "device/lge/g2-common",
     "revision": "lp5.1"
